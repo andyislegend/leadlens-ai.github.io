@@ -15,6 +15,7 @@ Extract the contents of the ZIP file to get a folder named build.
 
 ### Open Google Chrome
 Launch Google Chrome and click on the puzzle piece icon (extensions) in the top right corner of the browser. After that click on "Manage Extension".
+
 <img width="374" alt="image" src="https://github.com/user-attachments/assets/60a41bd7-304a-4490-95c6-22a25d91cd3c">
 
 ### Enable Developer Mode
