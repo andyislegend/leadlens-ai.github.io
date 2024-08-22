@@ -24,7 +24,9 @@ Enable "Developer mode" by toggling the switch in the top right corner of the Ex
 
 ### Load Unpacked Extension
 Click on "Load unpacked" and select the build folder you extracted earlier.
+
 <img width="434" alt="image" src="https://github.com/user-attachments/assets/55b9ae1e-9bab-471a-b671-6239652e94af">
+
 <img width="798" alt="image" src="https://github.com/user-attachments/assets/195b15c1-6c4c-49bc-bf74-74fc0f2e851f">
 
 ### Pin the Plugin
