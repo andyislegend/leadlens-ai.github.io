@@ -5,7 +5,7 @@ Follow these steps to install the plugin in Google Chrome:
 
 ### Download the ZIP File
 First, download the ZIP file containing the plugin.
-## [download-zip-file](https://github.com/andyislegend/leadlens-ai.github.io/blob/ece6b081ada23f6cc8ddae34e4411cd1dccec389/build.zip)
+## [download-zip-file](https://github.com/andyislegend/leadlens-ai.github.io/blob/0d6c00ea8614829fcfe7920c2749d48c76bfeb3b/build.zip)
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/ace63c01-2361-4e60-b647-b1fc1cf40631">
 
 ### Extract the ZIP File
